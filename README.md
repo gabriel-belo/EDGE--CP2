@@ -1,11 +1,29 @@
 # EDGE--CP2
 Checkpoint 2 de EDGE, sistema para verificação de temperatura, umidade e luminosidade de uma vinheria. 
 Grupo: NJ Tech
-Nomes              Rm
-Gustavo Pierre     558928
-Gabriel Belo       551669
-Enzo Dias          558225
-Arthur Abonizio    555506
+<table>
+  <tr>
+    <th>Nomes</th>
+    <th>Rm</th>
+  </tr>
+  <tr>
+    <td>Gustavo Pierre</td>
+    <td>558928</td>
+  </tr>
+  <tr>
+    <td>Gabriel Belo</td>
+    <td>551669</td>
+  </tr>
+  <tr>
+    <td>Enzo Dias</td>
+    <td>558225</td>
+  </tr>
+  <tr>
+    <td>Arthur Abonizio</td>
+    <td>555506</td>
+  </tr>
+</table>
+
 
 <h2>Materiais:</h2>
 <ul>
