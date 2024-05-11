@@ -27,6 +27,8 @@ Grupo: NJ Tech
 <h1>Link Para o projeto</h1>
 https://wokwi.com/projects/397483223723166721
 
+<h1>Link para o vídeo:</h1>
+https://youtu.be/s1UDQirZw60
 
 
 <h1>Materiais:</h1>
