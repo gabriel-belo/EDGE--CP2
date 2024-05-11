@@ -25,7 +25,7 @@ Grupo: NJ Tech
 </table>
 
 
-<h2>Materiais:</h2>
+<h1>Materiais:</h1>
 <ul>
   <li>Arduin Uno</li>
   <li>Breadboard</li>
@@ -39,10 +39,12 @@ Grupo: NJ Tech
 
 
 
-<h1>Foto do sistema</h1>
+<h1>Foto do sistema:</h1>
 <img src="https://github.com/gabriel-belo/EDGE--CP2/assets/126474319/76188a39-0186-4587-8c9b-e5d431bc4198"/>
 
 
+
+<h1>Descrição:</h1>
 O sistema é desenvolvido com um Arduino Uno visando o monitoramento ambiental. Para a coleta de dados foram utilizados dois sensores o DHT22 e o Photoresistor (LDR), o DHT22 coletando a umidade e temperatura do ambiente e o Photoresistor capitando a luminosidade. Para informar o estado do ambiente utilizamos três LED's das cores verde, amarelo e vermelho que representam o estado ideal, estado de cuidado e fora dos padrões respectivamente. O LCD apresenta os dados em tempo real, sendo a temperatura em graus celsius e uma infromação se é ideal ou não a umidade em porcentagem e uma infromação se é ideal ou não e a luminosida usando três padrões: luminosidade ideal, ambiente a meia luz e ambiente muito claro e também tem a utilização do Buzzer que é acionado nos estados de cuidado e fora dos padrões.
 O código inicia com a importação das bibliotecas LiquidCrystal e DHT,então os pinos de conexão para os componentes são configurados e as variaveis necessárias são criadas para interagir com eles.
 O void loop inicia com a definição do pino analógico do Photoresistor para leitura da luminosidade, e em seguida vem os cálculos que transformam os dados do LDR para a medida ideal a ser usada. Então temos duas variaveis temperatura e umidade que respectivamente contém as funções readTemperature() e readHumidity(). Com base nos dados coletados, desenvolvemos três condições fundamentais.
