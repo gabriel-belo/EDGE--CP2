@@ -24,6 +24,10 @@ Grupo: NJ Tech
   </tr>
 </table>
 
+<h1>Link Para o projeto</h1>
+https://wokwi.com/projects/397483223723166721
+
+
 
 <h1>Materiais:</h1>
 <ul>
