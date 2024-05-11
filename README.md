@@ -38,7 +38,7 @@ Grupo: NJ Tech
 </ul>
 
 
-![sistema_CP2](https://github.com/gabriel-belo/EDGE--CP2/assets/126474319/76188a39-0186-4587-8c9b-e5d431bc4198)
+
 <h1>Foto do sistema</h1>
 <img="https://github.com/gabriel-belo/EDGE--CP2/assets/126474319/76188a39-0186-4587-8c9b-e5d431bc4198" width="600px">
 
